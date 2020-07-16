@@ -1,0 +1,1 @@
+##In this project we use arduino to control 2 servo motors using one potentiometer  and a switch , setting the switch to the left postion controls the first servo and setting it to the other position controls the other servo
